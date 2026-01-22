@@ -1,5 +1,2 @@
-# Dependencies
-node_modules/
-
-# Environment variables
-.env
+backend/node_modules/
+backend/.env
