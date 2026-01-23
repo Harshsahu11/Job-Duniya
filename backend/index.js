@@ -8,7 +8,7 @@ import companyRoute from "./routes/company.route.js";
 import jobRoute from "./routes/job.route.js";
 dotenv.config({}); 
 
-const app=express();
+const app = express();
 
 
 //middleware
